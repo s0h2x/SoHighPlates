@@ -58,7 +58,7 @@
     menu.uilink:SetPoint('TOP', menu.intro, 'BOTTOM', 0, -35)
     menu.uilink:SetAutoFocus(false)
     --menu.uilink:SetScript('OnShow', function()
-    menu.uilink:SetText'https://github.com/sativahigh/SoHigh_Nameplates'
+    menu.uilink:SetText'https://github.com/sativahigh/SoHighPlates'
     --end)
 	
     menu.title = menu:CreateFontString(nil, 'OVERLAY', 'GameFontNormal')
