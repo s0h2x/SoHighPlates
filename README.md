@@ -17,7 +17,7 @@ Description: Simple Minimalistic Nameplates for 2.4.3 with options settings, not
 
   *new SB textures
 
-Type /snp for flexible addon settings:
+# Type /snp for flexible addon settings:
 
 ![alt tag](https://i.imgur.com/hmnUnxa.png)
 
