@@ -2,6 +2,7 @@
 ![alt tag](https://i.imgur.com/fmqx9Qp.png)
 
 Description: Simple Minimalistic Nameplates for 2.4.3 with options settings, not eating memory.
+
 What in new version:
 
   *menu options (position x,y and size all frames)
