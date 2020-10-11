@@ -1,2 +1,2 @@
-# SoHighPlate
-SoHighPlate v2.2b
+# SoHighPlate v2.2beta
+Awesome Minimalistic Nameplates.
