@@ -1,4 +1,4 @@
-# SoHighPlate v2.2beta
+# SoHighPlates v2.2beta
 ![alt tag](https://i.imgur.com/fmqx9Qp.png)
 
 Description: Simple Minimalistic Nameplates for 2.4.3 with options settings, not eating memory.
@@ -17,7 +17,7 @@ Don't forget remove word '-main' in folder name.
 
   *new fonts
 
-  *new SB textures
+  *new Status Bar textures
 
 ## Type /snp for flexible addon settings:
 
