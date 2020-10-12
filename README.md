@@ -21,7 +21,7 @@ Don't forget remove word '-main' in folder name.
 
 # Type /snp for flexible addon settings:
 
-![alt tag](https://i.imgur.com/hmnUnxa.png)
+![alt tag](https://i.imgur.com/kzXUFjv.png)
 
 # Some screens
 
