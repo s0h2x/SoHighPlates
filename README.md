@@ -19,7 +19,7 @@ Description: Lightweight Nameplates for 2.4.3 with options settings, not eating 
 
 ## Icicle & PlateBuffer Support:
 * Plates fine works with Platebuffer, fixed issues with showed auras.
-* For Icicle need my Fixed version, which you can find on my git:https://github.com/sativahigh/Icicle-Fix
+* For Icicle need my Fixed version, which you can find here:https://github.com/sativahigh/Icicle-Fix
 
  ![alt tag](https://i.imgur.com/BVXzXkk.png)
  ![alt tag](https://i.imgur.com/7rZU0zD.png)
