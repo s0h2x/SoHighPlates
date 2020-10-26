@@ -1,10 +1,11 @@
 ## Interface: 20400
 ## Author: SoHigh
 ## Title: |c00ff00ffSoHigh|r|c0030d5c8Plates|r
-## Notes: ** |c0023e7ffAwesome|r |c00ff00ffMinimalistic|r |c00cdfb06Nameplates|r by |c00eb7823SoHigh|r. Type |c00eb7823/snp|r for flexible AddOn settings **
-## Version: 2.2b
-## SavedVariables: snpCFG
-## SavedVariablesPerCharacter: snpClassIcon, snpTotemIcon, snplevel, snpSBtext, snpFormatOnly, snpPercentOnly, snphideName, snpClassColor, snpClassFlat
+## Notes: ** |c0023e7ffAwesome|r |c00ff00ffLightweight|r |c00cdfb06Nameplates|r by |c00eb7823SoHigh|r. Type |c00eb7823/snp|r for flexible AddOn settings **
+## Version: 2.3
+## SavedVariables: __sNpConfig
+## SavedVariablesPerCharacter: _sNpCColor, _sNpLevel, _sNpName, _sNpGlow, _sNpSBtxt, _sNpFNk, _sNpFNp, _sNpBorder, _sNpCIcon, _sNpTotem, _sNpBgHide, _sNpTColor
 
-SoHighPlates.lua
-snp_options.lua
+__sNpPlate.lua
+__sNpCore.lua
+__sNpOptions.lua
