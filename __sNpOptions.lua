@@ -790,7 +790,7 @@ fntO = '|c00df663d'
 fntA = '|c00f0f8ff'
 
 SLASH_SNP_OPTIONS1 = '/snp'
-SlashCmdList['SNP_OPTIONS'] = function(arg)
+SlashCmdList['SNP_OPTIONS'] = function()
 if __sNpMenu:IsShown() then __sNpMenu:Hide() else __sNpMenu:Show() end
 	table.insert(UISpecialFrames, __sNpMenu:GetName())
 end
