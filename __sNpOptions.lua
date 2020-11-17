@@ -783,12 +783,6 @@ StaticPopupDialogs['DEFAULT_RELOAD'] = {
 	hideOnEscape = true
 }
 
-fntF = '|c00ff00ff'
-fntB = '|c0030d5c8'
-fntW = '|c00ccccff'
-fntO = '|c00df663d'
-fntA = '|c00f0f8ff'
-
 SLASH_SNP_OPTIONS1 = '/snp'
 SlashCmdList['SNP_OPTIONS'] = function()
 if __sNpMenu:IsShown() then __sNpMenu:Hide() else __sNpMenu:Show() end
