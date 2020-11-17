@@ -727,7 +727,7 @@ __sNpCore:SetScript('OnEvent', function(self, e)
 	if (e == 'ADDON_LOADED') then
 		if (arg1 == 'SoHighPlates') then
 			__sNpCore:DefaultOptions()
-			DEFAULT_CHAT_FRAME:AddMessage(fntW..' **'..fntF..'SoHigh'..fntB..'Plates'..fntW..' v2.3 '..fntA..'Successful '..fntO..'Loaded'..fntA.. '. Type ' ..fntO.. '/SNP ' ..fntA.. 'for Options'..fntW..' **')
+			DEFAULT_CHAT_FRAME:AddMessage(' ** |c00ff00ffSoHigh|r|c0030d5c8Plates|r |c00f0f8ffSuccessful|r |c00df663dLoaded|r|c00f0f8ff. Type |c00df663d/SNP|r |c00f0f8fffor Options|r **')
 		end
 	end
 end)
